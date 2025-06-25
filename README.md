@@ -1,4 +1,4 @@
-🧘‍♂️ YogaVision: Yoga Pose Classification System
+#YogaVision: Yoga Pose Classification System
 This project uses MediaPipe Pose for pose estimation and an MLP Classifier to recognize different yoga poses from videos. The system processes video files, extracts 3D body keypoints (x, y, z), trains a classifier, and visualizes predictions with annotated video output.
 
 📁 Folder Structure
